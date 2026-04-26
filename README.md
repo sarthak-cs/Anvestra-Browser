@@ -7,7 +7,7 @@ Anvestra focuses on core browser functionality while integrating persistent data
 
 ## Demo
 
-[![Watch Demo](Images/home.png)](Anvestra/Images/Anvestravid.mp4)
+[![Watch Demo](Anvestra/Images/home.png)](Anvestra/Images/Anvestravid.mp4)
 
 ---
 
